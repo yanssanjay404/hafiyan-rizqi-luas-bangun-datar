@@ -1,2 +1,3 @@
-# hafiyan-rizqi-luas-bangun-datar
-hafiyan rizqi sanjaya universitas bhayangkara jakarta raya - hitung luas bangun datar
+HAFIYAN RIZQI SANJAYA
+UNIVERSITAS BHAYANGKARA JAKARTA RAYA
+TUGAS Menghitung luas dari persegi panjang, bujur sangkar dan segitiga menggunakan variabel dan operator mengggunakan (JS + HTML)
